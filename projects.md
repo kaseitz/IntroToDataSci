@@ -26,7 +26,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [index](https://kaseitz.github.io/index.md).
+For more details see [index](https://kaseitz.github.io).
 
 ### Jekyll Themes
 
